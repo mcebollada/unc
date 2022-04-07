@@ -1,6 +1,6 @@
 # **UNC** Universidad Nacional de Córdoba RA
 
-**Este repositorio contiene los proyectos de desarrollo que componenel SySO**
+**Este repositorio contiene los proyectos de desarrollo que componen el SySO**
 
 # Guía de actualizacion al repositorio
 > 1. Cree el espacio de repositorio en github repository->new
